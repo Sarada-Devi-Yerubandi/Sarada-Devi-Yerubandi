@@ -1,7 +1,6 @@
 ### Hey there everyone 👋
-### 🌱 I’m currently learning Full Stack Web Development
-### 👯 I’m looking to collaborate on Web Development
-### 🤔 I’m looking for help with ...
+### 🌱 I’m currently learning Full Stack Web Development.
+### 👯 I’m looking to collaborate on Web Development projects.
 ### 💬 Ask me about anything which you think I might now :)
 
 <!--
